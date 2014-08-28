@@ -102,5 +102,7 @@ to launch a flask app, simply run file run.py
 
 ```
 
-  copyright: (c) 2014 by Jason Lyu.
-  license: Apache 2.0, see LICENSE for more details.
+copyright: (c) 2014 by Jason Lyu.
+
+Have fun!
+
